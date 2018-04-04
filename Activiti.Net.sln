@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activiti.Net", "src\Activiti.Net\Activiti.Net.csproj", "{401ADB3D-F43A-478C-8D1B-AD83AE757150}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activiti.NetTest", "src\Activiti.NetTest\Activiti.NetTest.csproj", "{A244A4A0-4432-4C11-AF3B-20B7319FFE1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{401ADB3D-F43A-478C-8D1B-AD83AE757150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{401ADB3D-F43A-478C-8D1B-AD83AE757150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{401ADB3D-F43A-478C-8D1B-AD83AE757150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A244A4A0-4432-4C11-AF3B-20B7319FFE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A244A4A0-4432-4C11-AF3B-20B7319FFE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A244A4A0-4432-4C11-AF3B-20B7319FFE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A244A4A0-4432-4C11-AF3B-20B7319FFE1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
